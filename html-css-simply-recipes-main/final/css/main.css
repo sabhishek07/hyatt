@@ -401,10 +401,10 @@ Hero
 */
 
 .hero {
-  height: 40vh;
+  height: 60vh;
   position: relative;
   margin-bottom: 2rem;
-  background: url('../assets/recipes/cocktail9.jpg') center/cover no-repeat;
+  background: url('../assets/recipes/THE BAR.png') center/cover no-repeat;
   border-radius: var(--borderRadius);
 }
 .hero-container {
